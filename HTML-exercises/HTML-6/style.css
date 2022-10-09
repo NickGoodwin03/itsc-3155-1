@@ -1,0 +1,12 @@
+body{
+    font-family: fantasy;
+    background-color: pink;
+}
+#main-title{
+    text-align: center;
+    font-size:x-large;
+}
+::content{
+    margin-bottom: 12px;
+
+}

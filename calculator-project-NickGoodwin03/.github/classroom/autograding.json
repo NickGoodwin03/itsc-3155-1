@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "Joined",
+      "setup": "",
+      "run": "echo \"check\"",
+      "input": "",
+      "output": "check",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    }
+  ]
+}

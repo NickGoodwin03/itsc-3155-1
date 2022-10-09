@@ -1,0 +1,24 @@
+Enter the radius: The area of the circle is:  7853.981633974483
+The perimeter of the circle is:  314.1592653589793
+Enter the radius: The area of the circle is:  1256.6370614359173
+The perimeter of the circle is:  125.66370614359172
+Enter the radius: The area of the circle is:  314.1592653589793
+The perimeter of the circle is:  62.83185307179586
+Enter the radius: The area of the circle is:  50.26548245743669
+The perimeter of the circle is:  25.132741228718345
+Enter the radius: The area of the circle is:  12.566370614359172
+The perimeter of the circle is:  12.566370614359172
+Enter the radius: The area of the circle is:  28.274333882308138
+The perimeter of the circle is:  18.84955592153876
+Enter the radius: The area of the circle is:  3.141592653589793
+The perimeter of the circle is:  6.283185307179586
+Enter the radius: The area of the circle is:  13138219.017128855
+The perimeter of the circle is:  12849.113953182254
+Enter the radius: The area of the circle is:  413964.5223708734
+The perimeter of the circle is:  2280.79626650619
+Enter the radius: The area of the circle is:  197923.47876881054
+The perimeter of the circle is:  1577.0795121020763
+Enter the radius: The area of the circle is:  1256.6370614359173
+The perimeter of the circle is:  125.66370614359172
+Enter the radius: The area of the circle is:  0.0
+The perimeter of the circle is:  0.0

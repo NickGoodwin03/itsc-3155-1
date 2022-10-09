@@ -1,0 +1,24 @@
+{
+  "tests": [
+    {
+      "name": "Circle",
+      "setup": "",
+      "run": "python3 circle.py",
+      "input": "50\r\n20\r\n10\r\n4\r\n2\r\n3\r\n1\r\n2045\r\n363\r\n251\r\n20\r\n0",
+      "output": "Enter the radius: The area of the circle is:  7853.981633974483\r\nThe perimeter of the circle is:  314.1592653589793\r\nEnter the radius: The area of the circle is:  1256.6370614359173\r\nThe perimeter of the circle is:  125.66370614359172\r\nEnter the radius: The area of the circle is:  314.1592653589793\r\nThe perimeter of the circle is:  62.83185307179586\r\nEnter the radius: The area of the circle is:  50.26548245743669\r\nThe perimeter of the circle is:  25.132741228718345\r\nEnter the radius: The area of the circle is:  12.566370614359172\r\nThe perimeter of the circle is:  12.566370614359172\r\nEnter the radius: The area of the circle is:  28.274333882308138\r\nThe perimeter of the circle is:  18.84955592153876\r\nEnter the radius: The area of the circle is:  3.141592653589793\r\nThe perimeter of the circle is:  6.283185307179586\r\nEnter the radius: The area of the circle is:  13138219.017128855\r\nThe perimeter of the circle is:  12849.113953182254\r\nEnter the radius: The area of the circle is:  413964.5223708734\r\nThe perimeter of the circle is:  2280.79626650619\r\nEnter the radius: The area of the circle is:  197923.47876881054\r\nThe perimeter of the circle is:  1577.0795121020763\r\nEnter the radius: The area of the circle is:  1256.6370614359173\r\nThe perimeter of the circle is:  125.66370614359172\r\nEnter the radius: The area of the circle is:  0.0\r\nThe perimeter of the circle is:  0.0\r\n",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 20
+    },
+    {
+      "name": "Person",
+      "setup": "",
+      "run": "python3 person.py",
+      "input": "",
+      "output": "Bob\r\nJohn\r\n\r\n",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 20
+    }
+  ]
+}
